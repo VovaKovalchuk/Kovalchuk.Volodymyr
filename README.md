@@ -5,8 +5,8 @@ Practical task of Kovalchuk Volodymyr on Eleks Internship (June 2016)
   
  * Name: Kovalchuk Volodymyr
  * University: ІФФКК
- * Course: //todo: додайте сюди курс, на якому навчаєтесь
+ * Course: 4 (Розробка програмного забезпечення)
   
 ## Task Info
   
- //todo: додайте сюди завдання, яке ви виконуєте на практиці (текст завдання)
+Розробка бази даних по обліку студентів в навчальному закладі.
